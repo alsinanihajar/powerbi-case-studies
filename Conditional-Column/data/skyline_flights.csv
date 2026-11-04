@@ -1,0 +1,21 @@
+Flight_No,Flight_Date,Origin,Destination,Seat_Class,Delay_Minutes,Passenger_Rating
+SX361,2024-09-01,London,Madrid,Y,75,5
+SX576,2024-09-02,London,New York,Y,0,4
+SL480,2024-09-03,London,Manchester,J,10,3
+SX204,2024-09-04,London,Madrid,F,10,5
+SX321,2024-09-05,Manchester,Dubai,J,15,4
+SX884,2024-09-06,London,New York,J,5,5
+SL732,2024-09-07,London,Edinburgh,F,55,4
+SL101,2024-09-08,London,Edinburgh,Y,10,4
+SL270,2024-09-09,London,Edinburgh,Y,25,4
+SX794,2024-09-10,London,Madrid,Y,5,
+SL492,2024-09-01,London,Edinburgh,Y,0,4
+SX269,2024-09-02,London,Paris,Y,15,5
+SL408,2024-09-03,Manchester,Belfast,F,120,5
+SX794,2024-09-04,London,Madrid,Y,0,4
+SL413,2024-09-05,Manchester,Belfast,J,25,4
+SX583,2024-09-06,London,Paris,Y,0,4
+SL867,2024-09-07,London,Manchester,Y,40,5
+SX528,2024-09-08,London,Madrid,Y,40,2
+SX109,2024-09-09,London,New York,J,0,
+SL738,2024-09-10,London,Edinburgh,Y,0,4
