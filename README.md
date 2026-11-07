@@ -1,3 +1,3 @@
 # powerbi-case-studies
 ## Slides 
-https://drive.google.com/drive/folders/120B5WjE6CY5n85cXQxu_Ny9UpB1XEz99?usp=sharing
+https://drive.google.com/drive/folders/1Ka-bUkhUDTDqPY5VefoNUFytMv6Lvhg8?usp=sharing
