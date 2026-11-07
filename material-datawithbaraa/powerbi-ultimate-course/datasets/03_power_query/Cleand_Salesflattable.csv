@@ -1,0 +1,10 @@
+OrderID,Email,Customer_ID,Amount,Price,Order_Date,Product_Name,Category,Customer_Name,Country_Code,Email_Domain
+1001,anna@email.com,C-1001-DE,121,1201,5-Jan-24,Laptop Pro,ELEC,Anna Schmidt,DE,email.com
+1002,jean@email.com,C-1002-FR,91,81,6-Jan-24,Gaming Mouse,ACC,Jean Martin,FR,email.com
+1003,luca@email.com,C-1003-IT,,151,7-Jan-24,Mechanical Keyboard,ACC,Luca Rossi,IT,email.com
+1004,carlos@email.com,C-1004-ES,201,951,8-Feb-24,Laptop Air,ELEC,Carlos Diaz,ES,email.com
+1005,julia@email.com,C-1005-DE,51,1201,9-Feb-24,Laptop Pro,ELEC,Julia Weber,DE,email.com
+1007,sofia@email.com,C-1006-ES,311,601,10-Feb-24,4K Monitor,n/a,Sofia Lopez,ES,email.com
+1008,n/a,C-1007-IT,211,301,11-Mar-24,Office Chair,FURN,Marco Bianchi,IT,n/a
+1009,claire@email.com,C-1008-FR,76,61,12-Mar-24,Desk Lamp,FURN,Claire Dubois,FR,email.com
+1010,caul@email.com,C-1009-FR,46,0,,n/a,n/a,Paul Durand,FR,email.com
