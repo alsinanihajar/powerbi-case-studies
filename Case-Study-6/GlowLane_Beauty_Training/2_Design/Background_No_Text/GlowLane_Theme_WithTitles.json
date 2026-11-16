@@ -1,0 +1,95 @@
+{
+  "name": "GlowLane Beauty (With Titles)",
+  "dataColors": [
+    "#4A2545",
+    "#C98B7A",
+    "#8E5A7E",
+    "#E8B4A4",
+    "#6B8F71",
+    "#D9A441",
+    "#5B7DB1",
+    "#B85C5C"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#4A2545",
+  "tableAccent": "#C98B7A",
+  "good": "#4E8B5F",
+  "neutral": "#D9A441",
+  "bad": "#B85C5C",
+  "maximum": "#4A2545",
+  "center": "#E8B4A4",
+  "minimum": "#FBF3EF",
+  "textClasses": {
+    "callout": {
+      "fontFace": "Segoe UI Semibold",
+      "color": "#4A2545",
+      "fontSize": 30
+    },
+    "title": {
+      "fontFace": "Segoe UI Semibold",
+      "color": "#4A2545",
+      "fontSize": 13
+    },
+    "header": {
+      "fontFace": "Segoe UI Semibold",
+      "color": "#4A2545",
+      "fontSize": 12
+    },
+    "label": {
+      "fontFace": "Segoe UI",
+      "color": "#6E5A6B",
+      "fontSize": 10
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "show": false
+          }
+        ],
+        "border": [
+          {
+            "show": false
+          }
+        ],
+        "dropShadow": [
+          {
+            "show": false
+          }
+        ],
+        "title": [
+          {
+            "show": true,
+            "fontColor": {
+              "solid": {
+                "color": "#4A2545"
+              }
+            },
+            "fontSize": 14
+          }
+        ],
+        "visualHeader": [
+          {
+            "show": false
+          }
+        ]
+      }
+    },
+    "slicer": {
+      "*": {
+        "header": [
+          {
+            "show": true,
+            "fontColor": {
+              "solid": {
+                "color": "#C98B7A"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
